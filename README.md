@@ -1,6 +1,3 @@
-# VoxLens
-
-VoxLens is a JavaScript library that improves the accessibility of online data visualizations for screen-reader users. 
 
 This library is part of an ongoing research project being conducted at the University of Washington, led by [Ather Sharif](https://athersharif.me). Citations and links to our published work can be found at the end of this document.
 
